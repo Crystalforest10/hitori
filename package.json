@@ -1,7 +1,7 @@
 {
-  "name": "hitori",
+  "name": "Dark System",
   "version": "1.0.2",
-  "description": "Bot WhatsApp Using Lib Baileys Multi Device",
+  "description": "Bot WhatsApp for Dark System Only",
   "main": "start.js",
   "type": "commonjs",
   "scripts": {
@@ -21,7 +21,7 @@
     "bot-wa",
     "multi-device"
   ],
-  "author": "Nazedev",
+  "author": "Zahran",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys" : "latest",
